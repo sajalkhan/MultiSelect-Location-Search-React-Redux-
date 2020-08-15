@@ -10,7 +10,6 @@ export default function SearchBox(props) {
             <Select
                 {...props}
                 components={animatedComponents}
-                closeMenuOnSelect={false}
                 isMulti
                 placeholder="Type and search.."
                 openMenuOnClick={false}
