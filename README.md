@@ -1,10 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Project Url: https://multi-select-location-search-react-redux.vercel.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
-
+## git clone https://github.com/sajalkhan/MultiSelect-Location-Search-React-Redux-.git
+### `npm install`
 ### `npm start`
+
+![Untitled](https://user-images.githubusercontent.com/18021576/90307371-4d191800-def7-11ea-8eba-2450ecbbca91.png)
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
